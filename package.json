@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "ts-node src/functions.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.38",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  },
+  "name": "JWT-Scratch",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "<neerajkarakoti13@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
